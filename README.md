@@ -9,6 +9,6 @@ Code Sources: N/A
 
 Author: Tray Crusciel
 
-Acknowledgements: N/A 
+Acknowledgements: Worked with Caleb Cutrer and Melissa Judy in a study group session
 
 License: Specify the license under which your project is shared (if applicable).
